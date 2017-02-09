@@ -5,5 +5,5 @@
 ## Usage
 
 ```bash
-python main.py
+jupyter notebook
 ```
