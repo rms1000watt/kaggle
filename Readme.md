@@ -1,5 +1,5 @@
 <hidden cmd="cd $GOPATH/src/github.com/rms1000watt/kaggle"/>
-<hidden cmd="git push https://rms1000watt@github.com/rms1000watt/hello-world-go-grpc.git master:master"/>
+<hidden cmd="git push https://rms1000watt@github.com/rms1000watt/kaggle.git master:master"/>
 
 # Kaggle
 
