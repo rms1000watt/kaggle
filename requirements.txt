@@ -2,7 +2,6 @@ ryan
 pandas
 numpy
 seaborn
-matplotlib
 argparse
 ipython
 jupyter

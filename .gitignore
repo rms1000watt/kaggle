@@ -1,2 +1,4 @@
 *.csv
 tags
+lending-club-load-data/*
+.DS_Store
